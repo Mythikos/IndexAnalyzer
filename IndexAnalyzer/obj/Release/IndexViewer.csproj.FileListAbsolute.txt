@@ -1,0 +1,11 @@
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\bin\Release\IndexViewer.exe.config
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\bin\Release\IndexViewer.exe
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\bin\Release\IndexViewer.pdb
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\bin\Release\EPPlus.dll
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\obj\Release\IndexViewer.frmMain.resources
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\obj\Release\IndexViewer.frmAnalyze.resources
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\obj\Release\IndexViewer.Properties.Resources.resources
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\obj\Release\IndexViewer.csproj.GenerateResource.Cache
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\obj\Release\IndexViewer.csproj.CoreCompileInputs.cache
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\obj\Release\IndexViewer.exe
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexViewer\IndexViewer\obj\Release\IndexViewer.pdb
