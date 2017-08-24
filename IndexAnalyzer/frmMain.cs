@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using IndexViewer.Objects;
+using IndexAnalyzer.Objects;
 using System.Threading;
 using System.IO;
 
-namespace IndexViewer
+namespace IndexAnalyzer
 {
     public partial class frmMain : Form
     {

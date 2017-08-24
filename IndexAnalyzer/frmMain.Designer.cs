@@ -1,4 +1,4 @@
-﻿namespace IndexViewer
+﻿namespace IndexAnalyzer
 {
     partial class frmMain
     {

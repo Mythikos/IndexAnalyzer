@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IndexViewer
+namespace IndexAnalyzer
 {
     // Im aware I can do enumerations instead, but I wanted to do it this way for categorization and neatness.
     public static class Constants

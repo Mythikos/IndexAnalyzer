@@ -2,10 +2,10 @@ D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer
 D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\bin\Release\IndexAnalyzer.exe
 D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\bin\Release\IndexAnalyzer.pdb
 D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\bin\Release\EPPlus.dll
-D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexViewer.frmMain.resources
-D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexViewer.frmAnalyze.resources
 D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexAnalyzer.Properties.Resources.resources
 D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexAnalyzer.csproj.GenerateResource.Cache
 D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexAnalyzer.csproj.CoreCompileInputs.cache
 D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexAnalyzer.exe
 D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexAnalyzer.pdb
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexAnalyzer.frmMain.resources
+D:\Users\pntbl\Documents\Visual Studio 2017\Projects\IndexAnalyzer\IndexAnalyzer\obj\Release\IndexAnalyzer.frmAnalyze.resources

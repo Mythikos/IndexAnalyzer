@@ -4,12 +4,12 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using IndexViewer.Objects;
+using IndexAnalyzer.Objects;
 using OfficeOpenXml;
 using System.Threading;
 using System.IO;
 
-namespace IndexViewer
+namespace IndexAnalyzer
 {
     public partial class frmAnalyze : Form
     {

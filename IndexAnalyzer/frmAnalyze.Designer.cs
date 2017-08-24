@@ -1,4 +1,4 @@
-﻿namespace IndexViewer
+﻿namespace IndexAnalyzer
 {
     partial class frmAnalyze
     {
@@ -103,7 +103,7 @@
             // imgLoading
             // 
             this.imgLoading.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.imgLoading.Image = global::IndexViewer.Properties.Resources.loading;
+            this.imgLoading.Image = global::IndexAnalyzer.Properties.Resources.loading;
             this.imgLoading.Location = new System.Drawing.Point(0, 24);
             this.imgLoading.Name = "imgLoading";
             this.imgLoading.Size = new System.Drawing.Size(908, 267);
