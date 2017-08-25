@@ -307,6 +307,13 @@ namespace IndexAnalyzer
                 fStream.Close();
             }
 
+            // Remove the header and trailer record if indicated
+            if (_Configurations.IgnoreHeaderRow)
+                ReturnValue.Remove(0); // Remove first item in dictionary
+
+            if (_Configurations.IgnoreTrailerRow)
+                ReturnValue.Remove(ReturnValue.Keys.Max()); // Remove last item in dictionary
+
             // Return the value
             return ReturnValue;
         }

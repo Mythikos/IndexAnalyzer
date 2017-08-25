@@ -63,7 +63,7 @@
     </Compile>
     <Compile Include="Objects\AnalyzerConfiguration.cs" />
     <Compile Include="Objects\IndexItem.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Classes\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
