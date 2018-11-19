@@ -1,0 +1,1 @@
+[{"Name":"Padding","Position":1,"Length":10,"DataType":"None"},{"Name":"FirstName","Position":11,"Length":20,"DataType":"System.String"},{"Name":"LastName","Position":31,"Length":20,"DataType":"System.String"},{"Name":"Age","Position":51,"Length":5,"DataType":"System.Int32"},{"Name":"Padding","Position":56,"Length":65,"DataType":"None"}]
